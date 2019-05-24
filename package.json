@@ -1,0 +1,28 @@
+{
+  "name": "tld-entities",
+  "version": "1.0.0",
+  "description": "npm Library to get tld of a country or country by a tld",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syadav214/tld-countries.git"
+  },
+  "keywords": [
+    "tld",
+    "countries",
+    "domain",
+    "javascript",
+    "js",
+    "nodejs",
+    "node"
+  ],
+  "author": "Santoshkumar Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syadav214/tld-countries/issues"
+  },
+  "homepage": "https://github.com/syadav214/tld-countries#readme"
+}

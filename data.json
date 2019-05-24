@@ -1,0 +1,214 @@
+[
+    {
+      "code": "ac",
+      "entity": "Ascension Island"
+    },
+    {
+      "code": "ad",
+      "entity": "Andorra "
+    },
+    {
+      "code": "ag",
+      "entity": "Antigua and Barbuda"
+    },
+    {
+      "code": "am",
+      "entity": "Armenia "
+    },
+    {
+      "code": "as",
+      "entity": "American Samoa"
+    },
+    {
+      "code": "at",
+      "entity": "Austria"
+    },
+    {
+      "code": "be",
+      "entity": "Belgium"
+    },
+    {
+      "code": "by",
+      "entity": "Belarus"
+    },
+    {
+      "code": "ca",
+      "entity": "Canada"
+    },
+    {
+      "code": "cc",
+      "entity": "Cocos Keeling Islands"
+    },
+    {
+      "code": "cd",
+      "entity": "Democratic Republic of Congo"
+    },
+    {
+      "code": "ch",
+      "entity": "Switzerland "
+    },
+    {
+      "code": "ck",
+      "entity": "Cook Islands"
+    },
+    {
+      "code": "co",
+      "entity": "Colombia"
+    },
+    {
+      "code": "dj",
+      "entity": "Djibouti"
+    },
+    {
+      "code": "es",
+      "entity": "Spain"
+    },
+    {
+      "code": "fi",
+      "entity": "Finland"
+    },
+    {
+      "code": "fm",
+      "entity": "The Federated States of Micronesia"
+    },
+    {
+      "code": "gl",
+      "entity": "Greenland"
+    },
+    {
+      "code": "gg",
+      "entity": "Guernsey"
+    },
+    {
+      "code": "im",
+      "entity": "The Isle of Man"
+    },
+    {
+      "code": "in",
+      "entity": "India"
+    },
+    {
+      "code": "io",
+      "entity": "The British Indian Ocean Territory"
+    },
+    {
+      "code": "is",
+      "entity": "Iceland"
+    },
+    {
+      "code": "ir",
+      "entity": "Iran"
+    },
+    {
+      "code": "it",
+      "entity": "Italy"
+    },
+    {
+      "code": "je",
+      "entity": "Jersey"
+    },
+    {
+      "code": "la",
+      "entity": "Laos"
+    },
+    {
+      "code": "li",
+      "entity": "Liechtenstein"
+    },
+    {
+      "code": "lv",
+      "entity": "Latvia"
+    },
+    {
+      "code": "ly",
+      "entity": "Libya"
+    },
+    {
+      "code": "md",
+      "entity": "Moldova"
+    },
+    {
+      "code": "me",
+      "entity": "Montenegro"
+    },
+    {
+      "code": "mn",
+      "entity": "Mongolia"
+    },
+    {
+      "code": "ms",
+      "entity": "Montserrat"
+    },
+    {
+      "code": "mu",
+      "entity": "Mauritius"
+    },
+    {
+      "code": "ni",
+      "entity": "Nicaragua"
+    },
+    {
+      "code": "nu",
+      "entity": "Niue"
+    },
+    {
+      "code": "pr",
+      "entity": "Puerto Rico"
+    },
+    {
+      "code": "rs",
+      "entity": "Serbia"
+    },
+    {
+      "code": "sc",
+      "entity": "Seychelles"
+    },
+    {
+      "code": "sh",
+      "entity": "Saint Helena"
+    },
+    {
+      "code": "si",
+      "entity": "Slovenia"
+    },
+    {
+      "code": "sr",
+      "entity": "Suriname"
+    },
+    {
+      "code": "st",
+      "entity": "São Tomé and Príncipe"
+    },
+    {
+      "code": "tc",
+      "entity": "Turks and Caicos Islands"
+    },
+    {
+      "code": "tm",
+      "entity": "Turkmenistan"
+    },
+    {
+      "code": "to",
+      "entity": "Tonga"
+    },
+    {
+      "code": "TV",
+      "entity": "Tuvalu"
+    },
+    {
+      "code": "vc",
+      "entity": "Saint Vincent and The Grenadines"
+    },
+    {
+      "code": "vg",
+      "entity": "British Virgin Islands"
+    },
+    {
+      "code": "vu",
+      "entity": "Vanuatu"
+    },
+    {
+      "code": "ws",
+      "entity": "Western Samoa"
+    }
+   ]

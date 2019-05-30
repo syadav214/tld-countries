@@ -1,12 +1,13 @@
 # tld-countries
 
 ## Example
+https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#Country_code_top-level_domains
 
 ``` js
 const { getCountry, getTLD } = require('tld-countries');
 
-console.log(getName('IN')); // India
-console.log(getTLD('India')); // IN
+console.log(getName('in')); // India
+console.log(getTLD('India')); // in
 console.log(getTLD('Nothing')); // undefined
 ```
 

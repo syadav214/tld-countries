@@ -1,7 +1,7 @@
 {
   "name": "tld-countries",
   "version": "1.0.0",
-  "description": "npm Library to get tld of a country or country by a tld",
+  "description": "Mappping of top level domains(tld) to countries and vice versa",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

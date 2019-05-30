@@ -2,15 +2,13 @@ const tldData = require('./tld-data.json');
 const tldMap = {};
 const countryMap = {};
 
-tldData.forEach(mapTlds);
-
-function mapTlds(element) {
+tldData.map(element => {
   tldMap[element.tld.toLowerCase()] = element.country;
   countryMap[element.country.toLowerCase()] = element.tld;
-}
+});
 
 exports.getCountry = tld => {
-  return tldMap[tld.toLowerCase()];
+  return tldMap[tld.replace(/\./g, '').toLowerCase()];
 };
 
 exports.getTLD = country => {

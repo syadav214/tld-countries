@@ -1,5 +1,5 @@
-var test = require('tap').test;
-var { getCountry } = require('../');
+const test = require('tap').test;
+const { getCountry } = require('../');
 
 test('get country from tld', t => {
   t.equal(

@@ -41,7 +41,7 @@ Returns a key-value object of all top level domains(tld) using the tld as key.
 ## Install
 
 ``` cli
-npm install country-list
+npm install tld-countries
 ```
 
 ## License

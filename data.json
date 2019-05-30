@@ -1,214 +1,218 @@
 [
     {
       "code": "ac",
-      "entity": "Ascension Island"
+      "country": "Ascension Island"
     },
     {
       "code": "ad",
-      "entity": "Andorra "
+      "country": "Andorra"
+    },
+    {
+      "code": "ae",
+      "country": "United Arab Emirates"
     },
     {
       "code": "ag",
-      "entity": "Antigua and Barbuda"
+      "country": "Antigua and Barbuda"
     },
     {
       "code": "am",
-      "entity": "Armenia "
+      "country": "Armenia "
     },
     {
       "code": "as",
-      "entity": "American Samoa"
+      "country": "American Samoa"
     },
     {
       "code": "at",
-      "entity": "Austria"
+      "country": "Austria"
     },
     {
       "code": "be",
-      "entity": "Belgium"
+      "country": "Belgium"
     },
     {
       "code": "by",
-      "entity": "Belarus"
+      "country": "Belarus"
     },
     {
       "code": "ca",
-      "entity": "Canada"
+      "country": "Canada"
     },
     {
       "code": "cc",
-      "entity": "Cocos Keeling Islands"
+      "country": "Cocos Keeling Islands"
     },
     {
       "code": "cd",
-      "entity": "Democratic Republic of Congo"
+      "country": "Democratic Republic of Congo"
     },
     {
       "code": "ch",
-      "entity": "Switzerland "
+      "country": "Switzerland "
     },
     {
       "code": "ck",
-      "entity": "Cook Islands"
+      "country": "Cook Islands"
     },
     {
       "code": "co",
-      "entity": "Colombia"
+      "country": "Colombia"
     },
     {
       "code": "dj",
-      "entity": "Djibouti"
+      "country": "Djibouti"
     },
     {
       "code": "es",
-      "entity": "Spain"
+      "country": "Spain"
     },
     {
       "code": "fi",
-      "entity": "Finland"
+      "country": "Finland"
     },
     {
       "code": "fm",
-      "entity": "The Federated States of Micronesia"
+      "country": "The Federated States of Micronesia"
     },
     {
       "code": "gl",
-      "entity": "Greenland"
+      "country": "Greenland"
     },
     {
       "code": "gg",
-      "entity": "Guernsey"
+      "country": "Guernsey"
     },
     {
       "code": "im",
-      "entity": "The Isle of Man"
+      "country": "The Isle of Man"
     },
     {
       "code": "in",
-      "entity": "India"
+      "country": "India"
     },
     {
       "code": "io",
-      "entity": "The British Indian Ocean Territory"
+      "country": "The British Indian Ocean Territory"
     },
     {
       "code": "is",
-      "entity": "Iceland"
+      "country": "Iceland"
     },
     {
       "code": "ir",
-      "entity": "Iran"
+      "country": "Iran"
     },
     {
       "code": "it",
-      "entity": "Italy"
+      "country": "Italy"
     },
     {
       "code": "je",
-      "entity": "Jersey"
+      "country": "Jersey"
     },
     {
       "code": "la",
-      "entity": "Laos"
+      "country": "Laos"
     },
     {
       "code": "li",
-      "entity": "Liechtenstein"
+      "country": "Liechtenstein"
     },
     {
       "code": "lv",
-      "entity": "Latvia"
+      "country": "Latvia"
     },
     {
       "code": "ly",
-      "entity": "Libya"
+      "country": "Libya"
     },
     {
       "code": "md",
-      "entity": "Moldova"
+      "country": "Moldova"
     },
     {
       "code": "me",
-      "entity": "Montenegro"
+      "country": "Montenegro"
     },
     {
       "code": "mn",
-      "entity": "Mongolia"
+      "country": "Mongolia"
     },
     {
       "code": "ms",
-      "entity": "Montserrat"
+      "country": "Montserrat"
     },
     {
       "code": "mu",
-      "entity": "Mauritius"
+      "country": "Mauritius"
     },
     {
       "code": "ni",
-      "entity": "Nicaragua"
+      "country": "Nicaragua"
     },
     {
       "code": "nu",
-      "entity": "Niue"
+      "country": "Niue"
     },
     {
       "code": "pr",
-      "entity": "Puerto Rico"
+      "country": "Puerto Rico"
     },
     {
       "code": "rs",
-      "entity": "Serbia"
+      "country": "Serbia"
     },
     {
       "code": "sc",
-      "entity": "Seychelles"
+      "country": "Seychelles"
     },
     {
       "code": "sh",
-      "entity": "Saint Helena"
+      "country": "Saint Helena"
     },
     {
       "code": "si",
-      "entity": "Slovenia"
+      "country": "Slovenia"
     },
     {
       "code": "sr",
-      "entity": "Suriname"
+      "country": "Suriname"
     },
     {
       "code": "st",
-      "entity": "São Tomé and Príncipe"
+      "country": "São Tomé and Príncipe"
     },
     {
       "code": "tc",
-      "entity": "Turks and Caicos Islands"
+      "country": "Turks and Caicos Islands"
     },
     {
       "code": "tm",
-      "entity": "Turkmenistan"
+      "country": "Turkmenistan"
     },
     {
       "code": "to",
-      "entity": "Tonga"
+      "country": "Tonga"
     },
     {
       "code": "TV",
-      "entity": "Tuvalu"
+      "country": "Tuvalu"
     },
     {
       "code": "vc",
-      "entity": "Saint Vincent and The Grenadines"
+      "country": "Saint Vincent and The Grenadines"
     },
     {
       "code": "vg",
-      "entity": "British Virgin Islands"
+      "country": "British Virgin Islands"
     },
     {
       "code": "vu",
-      "entity": "Vanuatu"
+      "country": "Vanuatu"
     },
     {
       "code": "ws",
-      "entity": "Western Samoa"
+      "country": "Western Samoa"
     }
    ]

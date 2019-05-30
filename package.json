@@ -1,10 +1,11 @@
 {
-  "name": "tld-entities",
+  "name": "tld-countries",
   "version": "1.0.0",
   "description": "npm Library to get tld of a country or country by a tld",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "tap test/*.js --100"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/syadav214/tld-countries/issues"
   },
-  "homepage": "https://github.com/syadav214/tld-countries#readme"
+  "homepage": "https://github.com/syadav214/tld-countries#readme",
+  "devDependencies": {
+    "tap": "^14.2.0"
+  }
 }
